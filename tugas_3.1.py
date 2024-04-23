@@ -32,5 +32,5 @@ while True:
     print("Gaji total \t\t\t:",gt)
     ulang = input("Apakah Masih Ada Data........(Y/N)")
     if ulang.lower() != "y":
-        print ("Program Selesai \nThank You!!!!")
+        print ("Program Selesai \nThank You !!!!")
         break
